@@ -1,7 +1,5 @@
 # Job, Career, and Life Principles of Mine
 
-**Brief introduction:** I am a postgrad at the [Texas A\&M University](https://www.tamu.edu/) in [Department of Industrial & Systems Engineering](https://engineering.tamu.edu/industrial/index.html), and I am currently working as a full-time continuous improvement intern at [Volvo Group](https://www.linkedin.com/company/volvo-group/).
-
 I put down some principles I (try to) follow on my job search, career development, and life exploration principles here, they are not in particular order.
 
 * Job searching is not really about job searching. It is more about self-understanding, growing as a person, contributing to a team that I admire, and doing things that I respect.
