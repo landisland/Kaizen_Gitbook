@@ -5,3 +5,4 @@
 * [Kaizen Glossary](kaizen-glossary.md)
 * [Takt Time, Cycle Time, and Lead Time](takt-time-cycle-time-and-lead-time.md)
 * [The 10 Principles of Material Handling](the-10-principles-of-material-handling.md)
+* [3M: MUDA, MURA and MURI](3m-muda-mura-and-muri.md)
